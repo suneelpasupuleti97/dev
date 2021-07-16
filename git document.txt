@@ -1,0 +1,14 @@
+1. create new folder
+2. git init (converting folder into repository)
+3. touch 1 
+4. git add .
+5. git config --global user.name"sunil"
+6. git config --global user.email "sunil@gmail.com"
+7. git commit -m "initial commit"
+8. git remote add <name> <url>       by default name =origin 
+9. git push 
+
+
+--------------------------------------------------
+1. git clone <url>
+2. 
